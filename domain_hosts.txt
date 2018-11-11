@@ -11,19 +11,23 @@
 
 #### Snapchat Ads ####
 ‏⁦euw.adserver.snapads.com⁩
-‏⁦usc.adserver.snapads.com⁩ 
-‏⁦analytics.snapchat.com⁩ 
+‏⁦usc.adserver.snapads.com⁩
+‏⁦analytics.snapchat.com⁩
 ‏⁦app-analytics.snapchat.com
 
 ## Block snapchat voice call ##
 ‏#⁦Addlive.io
 
-##### BBM Ads ##### 
+##### BBM Ads #####
 ‏⁦channelpost.cdn.bbmasset.com⁩
 ‏⁦dai-ads.bbmessaging.com⁩
 ‏⁦dai-tagging.bbmessaging.com⁩⁩
 
+#### faselhd (arabic movie website) Ads ####
+adtag.vidssp.com
+defpush.com
+xml.adhunter.media
 
 #### Ads ####
-tracking.wealthdaily.io 
+tracking.wealthdaily.io
 e15244.dscg.akamaiedge.net
