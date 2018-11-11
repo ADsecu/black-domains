@@ -23,6 +23,9 @@
 ‏⁦dai-ads.bbmessaging.com⁩
 ‏⁦dai-tagging.bbmessaging.com⁩⁩
 
+#### Shahid.net Ads ####
+imasdk.googleapis.com
+
 #### faselhd (arabic movie website) Ads ####
 adtag.vidssp.com
 defpush.com
