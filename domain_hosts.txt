@@ -38,6 +38,17 @@ code.zwaar.org
 www.code.zwaar.org
 ns1.zwaar.org
 ns2.zwaar.org
+www.zwaar.net
+2017.zwaar.net
+ads.zwaar.net
+www.ads.zwaar.net
+blog.zwaar.net
+clicks.zwaar.net
+free-exchange.zwaar.net
+loui_3010.zwaar.net
+newblog.zwaar.net
+ns3.zwaar.net
+
 
 #### Ads ####
 tracking.wealthdaily.io
