@@ -31,8 +31,13 @@ imasdk.googleapis.com
 adtag.vidssp.com
 defpush.com
 xml.adhunter.media
-zwaar.net
-zwaar.org
+www.zwaar.org
+clicks.zwaar.org
+www.clicks.zwaar.org
+code.zwaar.org
+www.code.zwaar.org
+ns1.zwaar.org
+ns2.zwaar.org
 
 #### Ads ####
 tracking.wealthdaily.io
