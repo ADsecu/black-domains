@@ -1,11 +1,12 @@
----------------------------------
+
+###### -> BlackDomains <- #######
 ## Listed By Ahmed A. Alsrehy  ##
 ##    Special Ads websites     ##
 ##     Twitter : @ADsecu       ##
-##      Date : Nov 2018        ##
----------------------------------
+##      Github : ADsecu        ##
+##   Last Update : Nov 2018    ##
 #################################
-#For more : https://firebog.net#
+#  more : https://firebog.net   #
 #################################
 
 
@@ -26,10 +27,12 @@
 #### Shahid.net Ads ####
 imasdk.googleapis.com
 
-#### faselhd (arabic movie website) Ads ####
+#### Ads Caught in movies websites ####
 adtag.vidssp.com
 defpush.com
 xml.adhunter.media
+zwaar.net
+zwaar.org
 
 #### Ads ####
 tracking.wealthdaily.io
