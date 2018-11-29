@@ -43,8 +43,23 @@ www.ads.zwaar.net
 clicks.zwaar.net
 free-exchange.zwaar.net
 loui_3010.zwaar.net
+api.yallarec.com
+cs-api.yallarec.com
+img9-api.yallarec.com
+widget.yallarec.com
 
 
 #### Ads ####
 tracking.wealthdaily.io
 e15244.dscg.akamaiedge.net
+ads.mopub.com
+ad10.atlas.cz
+ad11.atlas.cz
+ad12.atlas.cz
+ad13.atlas.cz
+ad14.atlas.cz
+ad15.atlas.cz
+ad16.atlas.cz
+ad17.atlas.cz
+ad18.atlas.cz
+ad19.atlas.cz
