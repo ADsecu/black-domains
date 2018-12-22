@@ -4,7 +4,7 @@
 ##    Special Ads websites     ##
 ##     Twitter : @ADsecu       ##
 ##      Github : ADsecu        ##
-##   Last Update : Nov 2018    ##
+##   Last Update : Dec 2018    ##
 #################################
 #  more : https://firebog.net   #
 #################################
@@ -47,9 +47,12 @@ api.yallarec.com
 cs-api.yallarec.com
 img9-api.yallarec.com
 widget.yallarec.com
+mbcjufwxg9.com
+i62e2b4mfy.com
+yvzgazds6d.com
 
 
-#### Ads ####
+#### Ads & others ####
 tracking.wealthdaily.io
 e15244.dscg.akamaiedge.net
 ads.mopub.com
@@ -63,3 +66,53 @@ ad16.atlas.cz
 ad17.atlas.cz
 ad18.atlas.cz
 ad19.atlas.cz
+trafficfactory.biz
+rpc-php.trafficfactory.biz
+media.trafficfactory.biz
+neepaips.com
+governobylgot.info
+desgao1zt7irn.cloudfront.net
+d12tludofq8d6y.cloudfront.net
+d13dhn7ldhrcf6.cloudfront.net
+d169bbxks24g2u.cloudfront.net
+d16s8pqtk4uodx.cloudfront.net
+d1fc8wv8zag5ca.cloudfront.net
+d1i9kr6k34lyp.cloudfront.net
+d1jikhx1ssl81z.cloudfront.net
+d1k0glcmk0b5rb.cloudfront.net
+d1l6p2sc9645hc.cloudfront.net
+d1lxhc4jvstzrp.cloudfront.net
+d1mib12jcgwmnv.cloudfront.net
+d1nmxiiewlx627.cloudfront.net
+d1piupybsgr6dr.cloudfront.net
+d1pozdfelzfhyt.cloudfront.net
+d1qk9ujrmkucbl.cloudfront.net
+d1v9u0bgi1uimx.cloudfront.net
+d1xfq2052q7thw.cloudfront.net
+d1zatounuylvwg.cloudfront.net
+d1zgderxoe1a.cloudfront.net
+d1zkodo2u3p4pe.cloudfront.net
+d20i5e3rqc90ne.cloudfront.net
+d21j20wsoewvjq.cloudfront.net
+d24n15hnbwhuhn.cloudfront.net
+d258j801nsw1p7.cloudfront.net
+d25xkbr68qqtcn.cloudfront.net
+d26b395fwzu5fz.cloudfront.net
+d27tpsznug51gz.cloudfront.net
+d29i6o40xcgdai.cloudfront.net
+d29usylhdk1xyu.cloudfront.net
+d2a0bnlkc0czvp.cloudfront.net
+d2bgg7rjywcwsy.cloudfront.net
+d2cgumzzqhgmdu.cloudfront.net
+d2d8qsxiai9qwj.cloudfront.net
+d2fbkzyicji7c4.cloudfront.net
+d2focgxak1cn74.cloudfront.net
+d2g9nmtuil60cb.cloudfront.net
+d2ghscazvn398x.cloudfront.net
+d2gi7ultltnc2u.cloudfront.net
+d3anogn3pbtk4v.cloudfront.net
+d3oltyb66oj2v8.cloudfront.net
+app1.kromtech.net
+app2.kromtech.net
+app3.kromtech.net
+app4.kromtech.net
