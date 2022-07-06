@@ -10,22 +10,22 @@
 #################################
 
 
-#### Snapchat Ads ####
-‏⁦euw.adserver.snapads.com⁩
-‏⁦usc.adserver.snapads.com⁩
-‏⁦analytics.snapchat.com⁩
-‏⁦app-analytics.snapchat.com
+#### Snapchat Ads (need update) ####
+⁦#euw.adserver.snapads.com⁩
+#usc.adserver.snapads.com⁩
+⁦#analytics.snapchat.com⁩
+⁦#app-analytics.snapchat.com
 
 ## Block snapchat voice call ##
-‏#⁦Addlive.io
+#⁦Addlive.io
 
-##### BBM Ads #####
-‏⁦channelpost.cdn.bbmasset.com⁩
-‏⁦dai-ads.bbmessaging.com⁩
-‏⁦dai-tagging.bbmessaging.com⁩⁩
+##### BBM Ads (useless) #####
+#channelpost.cdn.bbmasset.com⁩
+⁦#dai-ads.bbmessaging.com⁩
+⁦#dai-tagging.bbmessaging.com⁩⁩
 
-#### Shahid.net Ads ####
-imasdk.googleapis.com
+#### Shahid.net Ads (need update) ####
+#imasdk.googleapis.com
 
 #### Ads Caught in movies websites ####
 adtag.vidssp.com
